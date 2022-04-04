@@ -1,0 +1,1 @@
+https://devanswers.co/install-apache-mysql-php-lamp-stack-ubuntu-20-04/
